@@ -1,0 +1,17 @@
+ANGULARJS Application Structure
+//file structure//
+public
+    -app 
+        -controllers
+            -employee.js
+        - lib
+            - angular 
+                -AngularJS core files
+        - app.js
+    -css
+        -bootstrap
+    -js
+        -bootstrap
+        -jquery
+//file structure//
+
